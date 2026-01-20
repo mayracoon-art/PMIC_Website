@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About Me"
-permalink: /about/
+permalink: /PMIC_Website/about/
 ---
 
 I am an analog and mixed-signal IC design engineer with research interests spanning **analog front-end circuits, data converters, and power management ICs**.

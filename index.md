@@ -1,5 +1,4 @@
-<div style="display:flex; flex-direction:column; gap:12px; max-width:400px;">
-
+<nav style="display:flex; gap:20px; padding:10px 0;">
   <a href="/PMIC_Website/">Front Page</a>
   <a href="/PMIC_Website/about/">About</a>
   <a href="/PMIC_Website/research/">Research</a>
@@ -22,6 +21,7 @@ I am an analog and mixed-signal IC design engineer focusing on
 **analog front-end circuits, data converters, and power management ICs**.
 
 <img src="/PMIC_Website/assets/images/Test_1.png" width="200px" />
+
 
 
 

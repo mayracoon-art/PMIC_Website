@@ -8,3 +8,13 @@
 </nav>
 <hr>
 
+---
+layout: single
+title: "Your Name"
+author_profile: true
+---
+
+Welcome to my personal website.
+
+I am an analog and mixed-signal IC design engineer focusing on  
+**analog front-end circuits, data converters, and power management ICs**.

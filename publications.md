@@ -1,12 +1,4 @@
-<nav style="display:flex; gap:20px; padding:10px 0;">
-  <a href="/PMIC_Website/about/">About</a>
-  <a href="/PMIC_Website/research/">Research</a>
-  <a href="/PMIC_Website/experience/">Experience</a>
-  <a href="/PMIC_Website/publications/">Publications</a>
-  <a href="/PMIC_Website/teaching/">Teaching</a>
-  <a href="/PMIC_Website/contact/">Contact</a>
-</nav>
-<hr>
+
 
 ---
 layout: single
@@ -23,4 +15,5 @@ Journal Papers:
 
 Domestic Journal
 1.	Yi-Xian Chen, Tsung-Wen Sun, Tsung-Heng Tsai and Chia-Chan Chang "A 12-Bit Pulse-Shrinking Time-to-Digital Converter with Timing Skew Calibration," in International Journal of Electrical Engineering, vol. 30, no. 1, pp. 19 - 25. https://doi.org/10.6329/CIEE.202306_30(1).0003 (EI)我是第二作者，通訊作者是指導教授
+
 

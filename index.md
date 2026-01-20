@@ -1,3 +1,5 @@
+<div style="display:flex; flex-direction:column; gap:12px; max-width:400px;">
+
   <a href="/PMIC_Website/">Front Page</a>
   <a href="/PMIC_Website/about/">About</a>
   <a href="/PMIC_Website/research/">Research</a>

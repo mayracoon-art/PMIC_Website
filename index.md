@@ -19,7 +19,8 @@ Welcome to my personal website.
 I am an analog and mixed-signal IC design engineer focusing on  
 **analog front-end circuits, data converters, and power management ICs**.
 
-![My Photo](/PMIC_Website/assets/images/Test_1.png)
+<img src="/PMIC_Website/assets/images/Test_1.png" width="200px" />
+
 
 
 

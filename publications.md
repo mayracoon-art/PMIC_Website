@@ -1,7 +1,6 @@
-
 ---
 layout: single
-title: "Professional Experience"
+title: "Publications"
 permalink: /publications/
 ---
 
@@ -24,6 +23,7 @@ Journal Papers:
 
 Domestic Journal
 1.	Yi-Xian Chen, Tsung-Wen Sun, Tsung-Heng Tsai and Chia-Chan Chang "A 12-Bit Pulse-Shrinking Time-to-Digital Converter with Timing Skew Calibration," in International Journal of Electrical Engineering, vol. 30, no. 1, pp. 19 - 25. https://doi.org/10.6329/CIEE.202306_30(1).0003 (EI)我是第二作者，通訊作者是指導教授
+
 
 
 

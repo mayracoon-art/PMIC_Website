@@ -1,11 +1,20 @@
 
-
 ---
 layout: single
 title: "Professional Experience"
 permalink: /publications/
 ---
 
+<nav style="display:flex; gap:20px; padding:10px 0;">
+  <a href="/PMIC_Website/">Front Page</a>
+  <a href="/PMIC_Website/about/">About</a>
+  <a href="/PMIC_Website/research/">Research</a>
+  <a href="/PMIC_Website/experience/">Experience</a>
+  <a href="/PMIC_Website/publications/">Publications</a>
+  <a href="/PMIC_Website/teaching/">Teaching</a>
+  <a href="/PMIC_Website/contact/">Contact</a>
+</nav>
+<hr>
 
 Journal Papers:
 1.	Tsung-Heng Tsai, Tsung-Wen Sun, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in IEEE Transactions on Circuits and Systems I: Regular Papers, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1)(EI) 我是通訊作者，第一作者是指導教授
@@ -15,5 +24,6 @@ Journal Papers:
 
 Domestic Journal
 1.	Yi-Xian Chen, Tsung-Wen Sun, Tsung-Heng Tsai and Chia-Chan Chang "A 12-Bit Pulse-Shrinking Time-to-Digital Converter with Timing Skew Calibration," in International Journal of Electrical Engineering, vol. 30, no. 1, pp. 19 - 25. https://doi.org/10.6329/CIEE.202306_30(1).0003 (EI)我是第二作者，通訊作者是指導教授
+
 
 

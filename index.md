@@ -1,4 +1,4 @@
-<h3> Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on **analog front-end circuits, data converters, and power management ICs**. </h3>
+<font size="14"> Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on **analog front-end circuits, data converters, and power management ICs**. </font>
 
 <img src="/PMIC_Website/assets/images/Profile.png" width="100px" />
 
@@ -26,7 +26,7 @@ Publication List
 ============
 <h3> - Journal Papers <br>
 
-1.	Tsung-Heng Tsai, </u>**Tsung-Wen Sun**</u>, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in *IEEE Transactions on Circuits and Systems I: Regular Papers*, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
+1.	Tsung-Heng Tsai, ++**Tsung-Wen Sun**++, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in *IEEE Transactions on Circuits and Systems I: Regular Papers*, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
 2.	Tsung-Heng Tsai, Tsung-Wen Sun*, Ren-Wei Cheng and Chia-Chan Chang, "A Low-Power Sensing System of VEGF Concentration with Noise Reduction Using Sub-Sampling Technique for Cancer Diagnosis," in IEEE Sensors Journal, doi:  10.1109/JSEN.2023.3263869. (SCI, IF=4.3) (Q1) (EI) 
 3.  Mu-Chun Chen, Tsung-Wen Sun and Tsung-Heng Tsai*, "Dual-Domain Maximum Power Tracking for Multi-Input RF Energy Harvesting with a Reconfigurable Rectifier Array," Energies, 15(6):2068, Mar. 2022; open access online: https://doi.org/10.3390/en15062068.  (SCI, IF=3.252) (Q1) (EI) 
 4.	Tsung-Wen Sun and Tsung-Heng Tsai*, "A Battery Management System Using Interleaved Pulse Charging with Charge and Temperature Balancing Based on NARX Network," IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 4, pp. 1811-1819, Apr. 2022. (SCI, IF=4.14) (Q1) (EI) 

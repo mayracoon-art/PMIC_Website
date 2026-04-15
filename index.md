@@ -6,25 +6,26 @@ Welcome to my personal website. I am an analog and mixed-signal IC design engine
 Tsung-Wen Sun <br>
 (孫 宗 彣) <br>
 
-經歷： <br>
+Experience (經歷)： <br>
 ============
 2025/01 Electrical Engineering, National Chung Cheng University (國立中正大學 電機博士) <br>
 2025/04 ~ 2025/12 瑞昱半導體 Senior Designer <br>
 
-學術專長： <br>
+Interests (學術專長)： <br>
 ============
-類比/混合訊號晶片設計、電源管理積體晶片、高壓積體電路設計、生醫類比訊號前端讀取晶片、類比數位轉換器
+
+Analog/Mixed-signal IC design, power management integrated circuits (PMICs), high-voltage integrated circuit design, biomedical analog signal front-end readout circuit, data converters
 
 ============
 Biography： <br>
 
-Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2026, he become the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor inferface, and biomedical circuits and systems.
+Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2025, he became the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor inferface, and biomedical circuits and systems.
 
 Publication List
 ============
 - Journal Papers <br>
 
-1.	Tsung-Heng Tsai, Tsung-Wen Sun*, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in IEEE Transactions on Circuits and Systems I: Regular Papers, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
+1.	Tsung-Heng Tsai, __**Tsung-Wen Sun**__, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in __IEEE Transactions on Circuits and Systems I: Regular Papers__, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
 2.	Tsung-Heng Tsai, Tsung-Wen Sun*, Ren-Wei Cheng and Chia-Chan Chang, "A Low-Power Sensing System of VEGF Concentration with Noise Reduction Using Sub-Sampling Technique for Cancer Diagnosis," in IEEE Sensors Journal, doi:  10.1109/JSEN.2023.3263869. (SCI, IF=4.3) (Q1) (EI) 
 3.  Mu-Chun Chen, Tsung-Wen Sun and Tsung-Heng Tsai*, "Dual-Domain Maximum Power Tracking for Multi-Input RF Energy Harvesting with a Reconfigurable Rectifier Array," Energies, 15(6):2068, Mar. 2022; open access online: https://doi.org/10.3390/en15062068.  (SCI, IF=3.252) (Q1) (EI) 我是第二作者 MOST 109-2221-E-194-034-MY3 and MOST 110-2221-E-194-049.
 4.	Tsung-Wen Sun and Tsung-Heng Tsai*, "A Battery Management System Using Interleaved Pulse Charging with Charge and Temperature Balancing Based on NARX Network," IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 4, pp. 1811-1819, Apr. 2022. (SCI, IF=4.14) (Q1) (EI) 

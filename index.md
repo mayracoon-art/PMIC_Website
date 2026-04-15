@@ -16,8 +16,9 @@ Interests (學術專長)： <br>
 
 Analog/Mixed-signal IC design, power management integrated circuits (PMICs), high-voltage integrated circuit design, biomedical analog signal front-end readout circuit, data converters
 
-============
+
 Biography： <br>
+============
 
 Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2025, he became the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor inferface, and biomedical circuits and systems.
 

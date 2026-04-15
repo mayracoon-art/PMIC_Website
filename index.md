@@ -1,22 +1,21 @@
-Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on  
-**analog front-end circuits, data converters, and power management ICs**.
+Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on **analog front-end circuits, data converters, and power management ICs**.
 
 <img src="/PMIC_Website/assets/images/Profile.png" width="100px" />
 
 
-Tsung-Wen Sun
-(孫 宗 彣)
+Tsung-Wen Sun <br>
+(孫 宗 彣) <br>
 
-經歷：
-
-
+經歷： <br>
+=============
 2025/01 Electrical Engineering, National Chung Cheng University (國立中正大學 電機博士) <br>
 2025/04 ~ 2025/12 瑞昱半導體 Senior Designer <br>
 
-學術專長
+學術專長： <br>
+=============
 類比/混合訊號晶片設計、電源管理積體晶片、高壓積體電路設計、生醫類比訊號前端讀取晶片、類比數位轉換器
 
-Biography：
+Biography： <br>
 
 Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2026, he become the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, readout integrated bbreak circuits, and biomedical circuits and systems.
 

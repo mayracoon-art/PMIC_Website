@@ -1,4 +1,4 @@
-<font size="14"> Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on **analog front-end circuits, data converters, and power management ICs**. </font>
+<font size="3"> Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on </font> **analog front-end circuits, data converters, and power management ICs**. 
 
 <img src="/PMIC_Website/assets/images/Profile.png" width="100px" />
 

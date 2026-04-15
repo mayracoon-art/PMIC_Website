@@ -1,21 +1,23 @@
 <font size="3"> Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on analog front-end circuits, data converters, and power management ICs. </font> 
 
+
+Personal Information <br>
+============
 <table>
 <tr>
     <td width="30%">
         <img src="/PMIC_Website/assets/images/Profile.png" width="100px" />
     </td>
     <td width="70%">
-        <h3>標題</h3>
-        <p>第一行文字</p>
-        <p>第二行文字</p>
-        <p>第三行文字</p>
+        <h3><font size="4">  孫 宗 彣 (Tsung-Wen Sun) </font> <br></h3>
+        <p>E-Mail:</p>
+        <p>Phone:</p>
+        <p>Address:</p>
     </td>
 </tr>
 </table>
 
-<font size="4">  Tsung-Wen Sun </font> <br>
-<font size="4"> (孫 宗 彣) </font> <br>
+
 
 Experience <br>
 ============

@@ -1,30 +1,30 @@
-Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on **analog front-end circuits, data converters, and power management ICs**.
+<h3> Welcome to my personal website. I am an analog and mixed-signal IC design engineer focusing on **analog front-end circuits, data converters, and power management ICs**. </h3>
 
 <img src="/PMIC_Website/assets/images/Profile.png" width="100px" />
 
 
-<h3> Tsung-Wen Sun <br>
-(孫 宗 彣) </h3><br>
+<h2> Tsung-Wen Sun <br>
+(孫 宗 彣) </h2><br>
 
 Experience <br>
 ============
-2025/01 Electrical Engineering, National Chung Cheng University (國立中正大學 電機博士) <br>
-2025/04 ~ 2025/12 瑞昱半導體 Senior Engineer <br>
+<h3> 2025/01 Electrical Engineering, National Chung Cheng University (國立中正大學 電機博士) <br>
+2025/04 ~ 2025/12 瑞昱半導體 Senior Engineer <br> </h3>
 
 Interests <br>
 ============
 
-Analog/Mixed-signal IC design, power management integrated circuits (PMICs), high-voltage integrated circuit design, biomedical analog signal front-end readout circuit, data converters
+<h3> Analog/Mixed-signal IC design, power management integrated circuits (PMICs), high-voltage integrated circuit design, biomedical analog signal front-end readout circuit, data converters </h3>
 
 
 Biography <br>
 ============
 
-Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2025, he became the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor inferface, and biomedical circuits and systems.
+<h3> Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2025, he became the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor inferface, and biomedical circuits and systems. </h3>
 
 Publication List
 ============
-- Journal Papers <br>
+<h3> - Journal Papers <br>
 
 1.	Tsung-Heng Tsai, </u>**Tsung-Wen Sun**</u>, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in *IEEE Transactions on Circuits and Systems I: Regular Papers*, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
 2.	Tsung-Heng Tsai, Tsung-Wen Sun*, Ren-Wei Cheng and Chia-Chan Chang, "A Low-Power Sensing System of VEGF Concentration with Noise Reduction Using Sub-Sampling Technique for Cancer Diagnosis," in IEEE Sensors Journal, doi:  10.1109/JSEN.2023.3263869. (SCI, IF=4.3) (Q1) (EI) 
@@ -46,11 +46,11 @@ Publication List
 
 - Local Conference Papers <br>
 
-1.	Tsung-Wen Sun, Chun-Hung Tsai, Hong-Song Yu, Yi-Xian Chen, and Tsung-Heng Tsai, " A CMOS-MEMS IL-6 Sensing System with Area Efficiency Improvement Integrated MEMS Capacitive Sensor," 2022 Symposium on Engineering, Medicine and Biology Applications (SEMBA) in Taichung, Taiwan, Sep.3-4, 2022. Oral Session 2: Biosensor Second Prize. 
+1.	Tsung-Wen Sun, Chun-Hung Tsai, Hong-Song Yu, Yi-Xian Chen, and Tsung-Heng Tsai, " A CMOS-MEMS IL-6 Sensing System with Area Efficiency Improvement Integrated MEMS Capacitive Sensor," 2022 Symposium on Engineering, Medicine and Biology Applications (SEMBA) in Taichung, Taiwan, Sep.3-4, 2022. Oral Session 2: Biosensor Second Prize.  </h3>
 
 Honors <br>
 ============
-1.	2023 IEEE SSCS Seoul Chapter Award. <br>
+<h3>1.	2023 IEEE SSCS Seoul Chapter Award. <br>
 2.	Honorable Award of 23th Macronix Golden Silicon Awards <br>
 3.	Excellent Analog chips of 2023 Taiwan Semiconductor Research Institute (TSRI) <br>
 4.	2022 Symposium on Engineering, Medicine and Biology Applications  <br>(SEMBA) Oral Session 2: Biosensor Second Prize <br>
@@ -58,4 +58,4 @@ Honors <br>
 6.	Honorary Member of the Phi Tau Phi Scholastic Honor Society  <br>
 7.	Perfect Attendance Award in NKUST <br>
 8.	Senior project competition of the college of electrical Engineering and computer science in NKUST - Second Prize  <br>
-9.	Senior project competition of the department of electronics in NKUST - First Prize of Analog Category <br>
+9.	Senior project competition of the department of electronics in NKUST - First Prize of Analog Category <br>  </h3>

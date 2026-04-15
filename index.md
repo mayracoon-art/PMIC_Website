@@ -26,27 +26,27 @@ Publication List
 ============
 ### - Journal Papers <br>
 
-1.	Tsung-Heng Tsai, ***Tsung-Wen Sun***, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in *IEEE Transactions on Circuits and Systems I: Regular Papers*, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
-2.	Tsung-Heng Tsai, Tsung-Wen Sun*, Ren-Wei Cheng and Chia-Chan Chang, "A Low-Power Sensing System of VEGF Concentration with Noise Reduction Using Sub-Sampling Technique for Cancer Diagnosis," in IEEE Sensors Journal, doi:  10.1109/JSEN.2023.3263869. (SCI, IF=4.3) (Q1) (EI) 
-3.  Mu-Chun Chen, Tsung-Wen Sun and Tsung-Heng Tsai*, "Dual-Domain Maximum Power Tracking for Multi-Input RF Energy Harvesting with a Reconfigurable Rectifier Array," Energies, 15(6):2068, Mar. 2022; open access online: https://doi.org/10.3390/en15062068.  (SCI, IF=3.252) (Q1) (EI) 
-4.	Tsung-Wen Sun and Tsung-Heng Tsai*, "A Battery Management System Using Interleaved Pulse Charging with Charge and Temperature Balancing Based on NARX Network," IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 4, pp. 1811-1819, Apr. 2022. (SCI, IF=4.14) (Q1) (EI) 
+1.	Tsung-Heng Tsai, **Tsung-Wen Sun***, Kuan-Yu Liao and Chia-Chan Chang, "A 180 nA Quiescent Current Digital Control Dual-Mode Buck Converter with a Pulse-Skipping Load Detector for Long-Range Applications," in *IEEE Transactions on Circuits and Systems I: Regular Papers*, doi: 10.1109/TCSI.2023.3270180. (SCI, IF = 5.1) (Q1) (EI) 
+2.	Tsung-Heng Tsai, **Tsung-Wen Sun***, Ren-Wei Cheng and Chia-Chan Chang, "A Low-Power Sensing System of VEGF Concentration with Noise Reduction Using Sub-Sampling Technique for Cancer Diagnosis," in *IEEE Sensors Journal*, doi:  10.1109/JSEN.2023.3263869. (SCI, IF=4.3) (Q1) (EI) 
+3.  Mu-Chun Chen, **Tsung-Wen Sun** and Tsung-Heng Tsai*, "Dual-Domain Maximum Power Tracking for Multi-Input RF Energy Harvesting with a Reconfigurable Rectifier Array," *Energies*, 15(6):2068, Mar. 2022; open access online: https://doi.org/10.3390/en15062068.  (SCI, IF=3.252) (Q1) (EI) 
+4.	**Tsung-Wen Sun** and Tsung-Heng Tsai*, "A Battery Management System Using Interleaved Pulse Charging with Charge and Temperature Balancing Based on NARX Network," *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 69, no. 4, pp. 1811-1819, Apr. 2022. (SCI, IF=4.14) (Q1) (EI) 
 
 ### - International Conference Papers <br>
 
-1.	Tsung-Wen Sun, Yung-Tang Hsu, Tsung-Heng Tsai*, and Chia-Chan Chang, "A GaN-Based Gate Driver with Adaptive Charge Sharing Bootstrap Technique to Improve the Conduction Loss" 2024 IEEE International Symposium on Circuits and Systems (ISCAS), May 19 - 22, 2024, Resorts World Convention Centre, Singapore. (EI) 
-2.	Tsung-Wen Sun, Chu-En Hsia, Tsung-Heng Tsai*, and Chia-Chan Chang, “A 94.3 % Peak Power Efficiency Time-Based Buck Converter Using Pulse-Phase-Shift Modes with An Intrinsic Window for Transient Enhancement,” 2023 20th IEEE International SoC Conference (ISOCC), Oct. 25-28, 2023, Jeju Island, Korea. 2023 IEEE SSCS Seoul Chapter Award. 
-3.	Tsung-Wen Sun, Meng-Ze Li, Tsung-Heng Tsai*, and Chia-Chan Chang, ”A High-Accuracy Hysteretic DC-DC Converter Using A Spread-Spectrum EMI Suppression Technique with Double Gold Codes”, 2023 21th IEEE Interregional NEWCAS Conference (NEWCAS), Edinburgh, Scotland, June 26 – 28, 2023. 
-4.	Tsung-Wen Sun, Ren-Wei Cheng and Tsung-Heng Tsai*, "A Low-Power Sensing System of VEGF Concentration with Monolithic Electrodes and An All-Digital Sub-Sampling Delay-Locked Loop," 2022 IEEE Biomedical Circuits and Systems Conference (BioCAS), Taipei, Taiwan, Oct. 13 – 15, 2022. 
-5.	Tsung-Wen Sun, Kuan-Yu Liao and Tsung-Heng Tsai*, "A Digital-Control Buck Converter with Dual Pulse-Skipping Modes for Internet of Things," 2022 IEEE International Symposium on Circuits and Systems (ISCAS), May 28 - Jun 01, 2022, Austin, Texas USA. (EI) 
-6.	Tsung-Wen Sun and Tsung-Heng Tsai, “A Battery Management System with Charge Balancing and Aging Detection Based on ANN”, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), May 22-28, 2021, Daegu(Virtual), Korea. (EI) 
+1.	**Tsung-Wen Sun**, Yung-Tang Hsu, Tsung-Heng Tsai*, and Chia-Chan Chang, "A GaN-Based Gate Driver with Adaptive Charge Sharing Bootstrap Technique to Improve the Conduction Loss" 2024 *IEEE International Symposium on Circuits and Systems (ISCAS)*, May 19 - 22, 2024, Resorts World Convention Centre, Singapore. (EI) 
+2.	**Tsung-Wen Sun**, Chu-En Hsia, Tsung-Heng Tsai*, and Chia-Chan Chang, “A 94.3 % Peak Power Efficiency Time-Based Buck Converter Using Pulse-Phase-Shift Modes with An Intrinsic Window for Transient Enhancement,” 2023 20th *IEEE International SoC Conference (ISOCC)*, Oct. 25-28, 2023, Jeju Island, Korea. 2023 IEEE SSCS Seoul Chapter Award. 
+3.	**Tsung-Wen Sun**, Meng-Ze Li, Tsung-Heng Tsai*, and Chia-Chan Chang, ”A High-Accuracy Hysteretic DC-DC Converter Using A Spread-Spectrum EMI Suppression Technique with Double Gold Codes”, *2023 21th IEEE Interregional NEWCAS Conference (NEWCAS)*, Edinburgh, Scotland, June 26 – 28, 2023. 
+4.	**Tsung-Wen Sun**, Ren-Wei Cheng and Tsung-Heng Tsai*, "A Low-Power Sensing System of VEGF Concentration with Monolithic Electrodes and An All-Digital Sub-Sampling Delay-Locked Loop," 2022 *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, Taipei, Taiwan, Oct. 13 – 15, 2022. 
+5.	**Tsung-Wen Sun**, Kuan-Yu Liao and Tsung-Heng Tsai*, "A Digital-Control Buck Converter with Dual Pulse-Skipping Modes for Internet of Things," *2022 IEEE International Symposium on Circuits and Systems (ISCAS)*, May 28 - Jun 01, 2022, Austin, Texas USA. (EI) 
+6.	**Tsung-Wen Sun** and Tsung-Heng Tsai*, “A Battery Management System with Charge Balancing and Aging Detection Based on ANN”, *2021 IEEE International Symposium on Circuits and Systems (ISCAS)*, May 22-28, 2021, Daegu(Virtual), Korea. (EI) 
 
 ### - Local Journal Papers <br>
 
-1.	Yi-Xian Chen, Tsung-Wen Sun, Tsung-Heng Tsai* and Chia-Chan Chang "A 12-Bit Pulse-Shrinking Time-to-Digital Converter with Timing Skew Calibration," in International Journal of Electrical Engineering, vol. 30, no. 1, pp. 19 - 25. https://doi.org/10.6329/CIEE.202306_30(1).0003  (EI) 
+1.	Yi-Xian Chen, **Tsung-Wen Sun**, Tsung-Heng Tsai* and Chia-Chan Chang "A 12-Bit Pulse-Shrinking Time-to-Digital Converter with Timing Skew Calibration," in *International Journal of Electrical Engineering*, vol. 30, no. 1, pp. 19 - 25. https://doi.org/10.6329/CIEE.202306_30(1).0003  (EI) 
 
 ### - Local Conference Papers <br>
 
-1.	Tsung-Wen Sun, Chun-Hung Tsai, Hong-Song Yu, Yi-Xian Chen, and Tsung-Heng Tsai, " A CMOS-MEMS IL-6 Sensing System with Area Efficiency Improvement Integrated MEMS Capacitive Sensor," 2022 Symposium on Engineering, Medicine and Biology Applications (SEMBA) in Taichung, Taiwan, Sep.3-4, 2022. Oral Session 2: Biosensor Second Prize.
+1.	**Tsung-Wen Sun***, Chun-Hung Tsai, Hong-Song Yu, Yi-Xian Chen, and Tsung-Heng Tsai, " A CMOS-MEMS IL-6 Sensing System with Area Efficiency Improvement Integrated MEMS Capacitive Sensor," *2022 Symposium on Engineering, Medicine and Biology Applications (SEMBA)* in Taichung, Taiwan, Sep.3-4, 2022. Oral Session 2: Biosensor Second Prize.
 
 Honors <br>
 ============

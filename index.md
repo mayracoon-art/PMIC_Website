@@ -1,5 +1,5 @@
 <p align="justify">
-<font size="3"> Welcome to my personal website. I am a Professor work on Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver IC, analog front-end circuits and analog-to-digital data converters. </font> 
+<font size="3"> Welcome to my personal website. I am a Professor working in the Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver ICs, analog front-end circuits and analog-to-digital converters. </font> 
 </p>
 
 Personal Information <br>
@@ -11,9 +11,9 @@ Personal Information <br>
     </td>
     <td width="70%">
         <h3><font size="4">  孫 宗 彣 (Tsung-Wen Sun) </font> <br></h3>
-        <p>E-Mail: mayracoon022@gmail.com</p>
-        <p>TEL: 04-7232105 Ext. 8397</p>
-        <p>Address: 工學院4樓 E412</p>
+        <p><font size="3">E-Mail: mayracoon022@gmail.com </font></p>
+        <p><font size="3">TEL: 04-7232105 Ext. 8397 </font></p>
+        <p><font size="3">Address: 工學院4樓 E412 </font></p>
     </td>
 </tr>
 </table>
@@ -35,7 +35,7 @@ Biography <br>
 ============
 
 <p align="justify">
-<font size="3"> Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan. 2025, he also received the Ph.D. degree with the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award by the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award, in 2023. In 2025, he became the Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor inferface, and biomedical circuits and systems. </font>
+<font size="3"> Tsung-Wen Sun was born in Kaohsiung City, Taiwan. He received the B.S. degree from the National Kaohsiung University of Science and Technology, Kaohsiung, Taiwan, in June 2019. In Jan 2025, he also received the Ph.D. degree from the Department of Electrical Engineering, National Chung Cheng University, Chiayi County, Taiwan. Moreover, he received the 2023 Annual Excellent Analog IC-Design Award from the TSRI, Taiwan, the Excellence Award from the 23rd Macronix Golden Silicon Awards, and the 2023 IEEE SSCS Seoul Chapter Award in 2023. In 2025, he became a Senior Analog Design Engineer at Realtek Corp., Taiwan. His research interests include analog circuit design for power management systems, analog front-end sensor interface, and biomedical circuits and systems. </font>
 </p>
 
 Research Fields <br>

@@ -1,5 +1,5 @@
 <p align="justify">
-<font size="3"> Welcome to my personal website. I am a Professor work on Department of Electronic Engineering, National Changhua University of Education/NCUE. My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver IC, analog front-end circuits and analog-to-digital data converters. </font> 
+<font size="3"> Welcome to my personal website. I am a Professor work on Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver IC, analog front-end circuits and analog-to-digital data converters. </font> 
 </p>
 
 Personal Information <br>
@@ -11,9 +11,9 @@ Personal Information <br>
     </td>
     <td width="70%">
         <h3><font size="4">  孫 宗 彣 (Tsung-Wen Sun) </font> <br></h3>
-        <p>E-Mail:</p>
+        <p>E-Mail: </p>
         <p>TEL: 04-7232105 Ext 8397</p>
-        <p>Address:工學院4樓 E412</p>
+        <p>Address: 工學院4樓 E412</p>
     </td>
 </tr>
 </table>

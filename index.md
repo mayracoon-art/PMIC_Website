@@ -110,8 +110,7 @@ Honors <br>
 2.	Honorable Award of 23th Macronix Golden Silicon Awards <br>
 3.	Excellent Analog chips of 2023 Taiwan Semiconductor Research Institute (TSRI) <br>
 4.	2022 Symposium on Engineering, Medicine and Biology Applications  <br>(SEMBA) Oral Session 2: Biosensor Second Prize <br>
-5.	2020 IC Contest Final Contest Acceptance <br>
-6.	Honorary Member of the Phi Tau Phi Scholastic Honor Society  <br>
-7.	Perfect Attendance Award in NKUST <br>
-8.	Senior project competition of the college of electrical Engineering and computer science in NKUST - Second Prize  <br>
-9.	Senior project competition of the department of electronics in NKUST - First Prize of Analog Category <br> 
+5.	Honorary Member of the Phi Tau Phi Scholastic Honor Society  <br>
+6.	Perfect Attendance Award in NKUST <br>
+7.	Senior project competition of the college of electrical Engineering and computer science in NKUST - Second Prize  <br>
+8.	Senior project competition of the department of electronics in NKUST - First Prize of Analog Category <br> 

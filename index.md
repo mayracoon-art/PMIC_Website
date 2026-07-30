@@ -7,11 +7,11 @@ Personal Information <br>
 <table>
 <tr>
     <td width="30%">
-        <img src="/PMSSIC_Lab/assets/images/Profile.png" width="100px" />
+        <img src="/PMSSIC_Lab/assets/images/Profile.png" width="150px" />
     </td>
     <td width="70%">
         <h3><font size="4">  孫 宗 彣 (Tsung-Wen Sun) </font> <br></h3>
-        <p>E-Mail: </p>
+        <p>E-Mail: mayracoon022@gmail.com</p>
         <p>TEL: 04-7232105 Ext. 8397</p>
         <p>Address: 工學院4樓 E412</p>
     </td>

@@ -24,8 +24,7 @@ Experience <br>
 ============
 <font size="3"> 2025/01 Electrical Engineering, National Chung Cheng University (國立中正大學 電機博士) </font> <br>
 <font size="3"> 2025/04 ~ 2025/12 Realtek Semiconductor Corp. - Senior Engineer </font> <br> 
-<font size="3"> 2026/08 ~ Department of Electronic Engineering
-National Changhua University of Education (NCUE) - Assistant Professor </font> <br> 
+<font size="3"> 2026/08 ~ Department of Electronic Engineering, National Changhua University of Education (NCUE) - Assistant Professor </font> <br> 
 
 Interests <br>
 ============

@@ -1,5 +1,5 @@
 <p align="justify">
-<font size="3"> Welcome to Power Managment & Sensing Systems IC (PMSSIC) LAB. I am a Professor working in the Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver ICs, analog front-end circuits and analog-to-digital converters. </font> 
+<font size="3"> Welcome to Power Managment & Sensing Systems IC (PMSSIC) Lab. I am a Professor working in the Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver ICs, analog front-end circuits and analog-to-digital converters. </font> 
 </p>
 
 Personal Information <br>
@@ -13,7 +13,7 @@ Personal Information <br>
         <h3><font size="4">  孫 宗 彣 (Tsung-Wen Sun) </font> <br></h3>
         <p><font size="3">E-Mail: mayracoon022@gmail.com </font></p>
         <p><font size="3">TEL: 04-7232105 Ext. 8397 </font></p>
-        <p><font size="3">Address: 工學院4樓 E412 </font></p>
+        <p><font size="3">Address: 工學院4樓 E434 </font></p>
     </td>
 </tr>
 </table>

@@ -42,7 +42,8 @@ Biography <br>
 Research Fields <br>
 ============
 
-<font size="3"> 研究方向一：高功率與低功耗電源管理積體晶片設計<br>
+<font size="3"> 研究方向一：<br>
+高功率與低功耗電源管理積體晶片設計<br>
 （Power Management ICs for High-Power and Ultra-Low-Power Applications）<br>
 <br>
 <p align="justify">
@@ -50,7 +51,8 @@ Research Fields <br>
 </p>
 <br>
 <br>
-研究方向二：生醫與環境類比訊號前端感測與讀取晶片暨資料轉換器<br>
+研究方向二：<br>
+生醫與環境類比訊號前端感測與讀取晶片暨資料轉換器<br>
 (Biomedical & Environmental Analog Front-End ICs and Data Converters)<br>
 <br>
 <p align="justify">

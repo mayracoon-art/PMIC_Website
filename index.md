@@ -1,5 +1,5 @@
 <p align="justify">
-<font size="3"> Welcome to Power Managment & Sensing Systems IC (PMSSIC) Lab. I am a Professor working in the Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver ICs, analog front-end circuits and analog-to-digital converters. </font> 
+<font size="3"> Welcome to Power Management & Sensing Systems IC (PMSSIC) Lab. I am a Professor working in the Department of Electronic Engineering, National Changhua University of Education (NCUE). My research interests are analog and mixed-signal IC design focusing on power management ICs, high-voltage driver ICs, analog front-end circuits and analog-to-digital converters. </font> 
 </p>
 
 Personal Information <br>
